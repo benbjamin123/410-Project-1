@@ -1,0 +1,30 @@
+Splay Descending Input 100000 times
+0.010089
+
+Splay Descending Input 200000 times
+0.017429
+
+Splay Descending Input 300000 times
+0.037118
+
+Splay Descending Input 400000 times
+0.043131
+
+Splay Descending Input 500000 times
+0.046658
+
+Splay Descending Input 600000 times
+0.052710
+
+Splay Descending Input 700000 times
+0.059479
+
+Splay Descending Input 800000 times
+0.111693
+
+Splay Descending Input 900000 times
+0.093389
+
+Splay Descending Input 1000000 times
+0.088750
+
